@@ -1,0 +1,42 @@
+.img01 {
+    display: inline-block;
+    
+   
+}
+
+
+.img02 {
+    display: inline-block;
+  
+    
+}
+
+.img03{
+    display: inline-block;
+   
+  
+}
+
+body{
+    /* background-color: black; */
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url(../img/fundo03certo.jpg);
+}
+
+a:visited{
+    color: yellow;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color:black;
+}
